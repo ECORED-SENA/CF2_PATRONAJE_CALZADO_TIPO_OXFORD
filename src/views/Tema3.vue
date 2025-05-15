@@ -93,13 +93,13 @@
             h4.txt--purpura.mb-4 Pie cavo (arco alto)
             p.mb-0 El arco es muy pronunciado, dejando un espacio elevado entre la planta y el suelo. Puede causar mayor presión en el talón y metatarso, generando dolor o problemas de estabilidad.
       
-      .py-3.py-md-4(titulo="Hallux Valgus (Juanete)")
+      .py-3.py-md-4(titulo="<em>Hallux Valgus</em> (Juanete)")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img47.svg', alt="" style="max-width: 300px").m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
-            h4.txt--purpura.mb-4 Hallux Valgus (Juanete)
+            h4.txt--purpura.mb-4 <em>Hallux Valgus</em> (Juanete)
             p.mb-0 El dedo gordo se inclina hacia el segundo dedo, formando una protuberancia ósea en la base del dedo. Puede causar dolor, inflamación y enrojecimiento. También puede derivar en deformidades como dedos en garra o superposición de dedos.
             
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")

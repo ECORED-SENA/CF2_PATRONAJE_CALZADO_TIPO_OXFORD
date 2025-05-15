@@ -32,22 +32,26 @@
 
     .row.mb-5.align-items-center
       .col-xl
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22 Uso
-            p.mb-0.estilo___caja_22_1.ajuste___5 Internacional, principalmente en calzado militar, deportivo y técnico.
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22.ajuste___1 Medida base
-            p.mb-0.estilo___caja_22_1.ajuste___4.ajuste___movil_tema3 Longitud del pie en milímetros.
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22.ajuste___2 Características
-            p.mb-0.estilo___caja_22_1 Se basa en la medida real del pie. Puede incluir también el ancho (Por ejemplo 260/100 indica 260 mm de largo y 100 mm de ancho). Recomendado por la Organización Internacional de Normalización(150). 
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22.ajuste___3 Diferencias
-            p.mb-0.estilo___caja_22_1 Es el sistema más preciso, pero menos usado en el comercio minorista.No depende del diseño del zapato.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Uso
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Internacional, principalmente en calzado militar, deportivo y técnico.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Medida base
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Longitud del pie en milímetros.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Características
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Se basa en la medida real del pie. Puede incluir también el ancho (por ejemplo 260/100 indica 260 mm de largo y 100 mm de ancho). Recomendado por la Organización Internacional de Normalización (150). 
+        .row.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Diferencias
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Es el sistema más preciso, pero menos usado en el comercio minorista. No depende del diseño del zapato.
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src="@/assets/curso/temas/img3.svg", alt="" style="max-width: 500px").m-auto
@@ -63,22 +67,26 @@
 
     .row.mb-5.align-items-center.ajustes___movil-1
       .col-xl
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22 Uso
-            p.mb-0.estilo___caja_22_1.ajuste___6.ajuste___9 Europa y gran parte del mundo.
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22.ajuste___7.ajuste___10 Medida base
-            p.mb-0.estilo___caja_22_1.ajuste___8 Longitud de la horma en puntos franceses (1 punto= 6.66 mm).
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22.ajuste___2 Características
-            p.mb-0.estilo___caja_22_1 Mide la longitud de la horma, no del pie. No diferencia entre tallas de hombres, mujeres y niños. No contempla el ancho del pie. 
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22.ajuste___3 Diferencias
-            p.mb-0.estilo___caja_22_1 El incremento entre tallas es de 6.66 mm. Es el sistema más común entre marcas europeas.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Uso
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Europa y gran parte del mundo.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Medida base
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Longitud de la horma en puntos franceses (1 punto = 6.66 mm).
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Características
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Mide la longitud de la horma, no del pie. No diferencia entre tallas de hombres, mujeres y niños. No contempla el ancho del pie.
+        .row.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Diferencias
+          .col-lg.estilo___caja_22_1
+            p.mb-0 El incremento entre tallas es de 6.66 mm. Es el sistema más común entre marcas europeas.
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src="@/assets/curso/temas/img4.svg", alt="" style="max-width: 500px").m-auto
@@ -94,22 +102,26 @@
 
     .row.mb-5.align-items-center.ajustes___movil-1
       .col-xl
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22 Uso
-            p.mb-0.estilo___caja_22_1.ajuste___11.ajuste___14 Reino Unido, India, países de la <em>Commowealth</em>.
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22.ajuste___12 Medida base
-            p.mb-0.estilo___caja_22_1.ajuste___13.ajuste___15 Longitud de la horma en pulgadas.
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22.ajuste___2 Características
-            p.mb-0.estilo___caja_22_1 Similar al sistema estadounidense, pero con punto de inicio distinto. Usa 4 pulgadas como referencia para la talla 0. Incremento entre tallas de 1/3 de pulgada (8.46mm).
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22.ajuste___3 Diferencias
-            p.mb-0.estilo___caja_22_1 Las tallas UK son una unidad menos que las tallas US ( ejemplo: UK8= US 9). Tiene menos variación entre tallas masculinas y femeninas. 
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Uso
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Reino Unido, India, países de la <em>Commowealth</em>.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Medida base
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Longitud de la horma en pulgadas.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Características
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Similar al sistema estadounidense, pero con punto de inicio distinto. Usa 4 pulgadas como referencia para la talla 0. Incremento entre tallas de 1/3 de pulgada (8.46mm).
+        .row.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Diferencias
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Las tallas UK son una unidad menos que las tallas US ( ejemplo: UK8 = US 9). Tiene menos variación entre tallas masculinas y femeninas. 
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src="@/assets/curso/temas/img5.svg", alt="" style="max-width: 500px").m-auto
@@ -123,27 +135,31 @@
 
     p.mb-4.ajustes___movil-1 Utilizado en Estados Unidos y Canadá, tiene diferencias notables respecto al sistema inglés.
 
-    .row.align-items-center.ajustes___movil-1
+    .row.mb-5.align-items-center.ajustes___movil-1
       .col-xl
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22 Uso
-            p.mb-0.estilo___caja_22_1.ajuste___16.ajuste___17 Estados Unidos y Canadá.
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22.ajuste___12 Medida base
-            p.mb-0.estilo___caja_22_1.ajuste___13.ajuste___15 Longitud de la horma en pulgadas.
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22.ajuste___2 Características
-            p.mb-0.estilo___caja_22_1 Existen tallas separadas para hombres, mujeres y niños. Se basa en sistemas inglés, pero inicia 2,116mm antes. Incremento entre tallas: 1/3 de pulgadas (8.46mm).
-        .row.align-items-center.mb-1(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo___caja_22.ajuste___3 Diferencias
-            p.mb-0.estilo___caja_22_1.ajuste___color_6 Para hombres, la talla 0 equivale a 7 2 /3 pulgadas. Para mujeres, las Tallas son 1.5 unidades más altas que en hombres (Ejemplo: us 9.5W)
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Uso
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Estados Unidos y Canadá.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Medida base
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Longitud de la horma en pulgadas.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Características
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Existen tallas separadas para hombres, mujeres y niños. Se basa en sistemas Inglés, pero inicia 2,116mm antes. Incremento entre tallas: 1/3 de pulgada (8.46mm).
+        .row.m-0(data-aos="fade-right")
+          .col-lg-4.estilo___caja_22
+            p.mb-0 Diferencias
+          .col-lg.estilo___caja_22_1
+            p.mb-0 Para hombres, la talla 0 equivale a 7 2/3 pulgadas. Para mujeres, las tallas son 1.5 unidades más altas que en hombres (Ejemplo: us 9.5W).
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
-          img(src="@/assets/curso/temas/img4.svg", alt="" style="max-width: 500px").m-auto
+          img(src="@/assets/curso/temas/img6.svg", alt="" style="max-width: 500px").m-auto
 
     Separador
     <!-- BLOQUE 2 -->
@@ -205,65 +221,65 @@
             th Talla inglesa / estadounidense (UK / US)
         tbody
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla 22
-            td.ajuste-border-tabla 33
-            td 1 - 1½
+            td.ajuste-border-tabla.texto-left 22
+            td.ajuste-border-tabla.texto-left 33
+            td.texto-left 1 - 1½
           tr
-            td.ajuste-border-tabla 23
-            td.ajuste-border-tabla 34
-            td 2 - 2½
+            td.ajuste-border-tabla.texto-left 23
+            td.ajuste-border-tabla.texto-left 34
+            td.texto-left 2 - 2½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla 24
-            td.ajuste-border-tabla 35
-            td 3 - 3½
+            td.ajuste-border-tabla.texto-left 24
+            td.ajuste-border-tabla.texto-left 35
+            td.texto-left 3 - 3½
           tr
-            td.ajuste-border-tabla 25
-            td.ajuste-border-tabla 36
-            td 4 - 4½
+            td.ajuste-border-tabla.texto-left 25
+            td.ajuste-border-tabla.texto-left 36
+            td.texto-left 4 - 4½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla 26
-            td.ajuste-border-tabla 37
-            td 5 - 5½
+            td.ajuste-border-tabla.texto-left 26
+            td.ajuste-border-tabla.texto-left 37
+            td.texto-left 5 - 5½
           tr
-            td.ajuste-border-tabla 27
-            td.ajuste-border-tabla 38
-            td 6 - 6½
+            td.ajuste-border-tabla.texto-left 27
+            td.ajuste-border-tabla.texto-left 38
+            td.texto-left 6 - 6½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla 28
-            td.ajuste-border-tabla 39
-            td 7 - 7½
+            td.ajuste-border-tabla.texto-left 28
+            td.ajuste-border-tabla.texto-left 39
+            td.texto-left 7 - 7½
           tr
-            td.ajuste-border-tabla 29
-            td.ajuste-border-tabla 40
-            td 8 - 8½
+            td.ajuste-border-tabla.texto-left 29
+            td.ajuste-border-tabla.texto-left 40
+            td.texto-left 8 - 8½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla 30
-            td.ajuste-border-tabla 41
-            td 9 - 9½
+            td.ajuste-border-tabla.texto-left 30
+            td.ajuste-border-tabla.texto-left 41
+            td.texto-left 9 - 9½
           tr
-            td.ajuste-border-tabla 31
-            td.ajuste-border-tabla 42
-            td 10 - 10½
+            td.ajuste-border-tabla.texto-left 31
+            td.ajuste-border-tabla.texto-left 42
+            td.texto-left 10 - 10½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla 32
-            td.ajuste-border-tabla 43
-            td 11 - 11½
+            td.ajuste-border-tabla.texto-left 32
+            td.ajuste-border-tabla.texto-left 43
+            td.texto-left 11 - 11½
           tr
-            td.ajuste-border-tabla 33
-            td.ajuste-border-tabla 44
-            td 12 - 12½
+            td.ajuste-border-tabla.texto-left 33
+            td.ajuste-border-tabla.texto-left 44
+            td.texto-left 12 - 12½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla 34
-            td.ajuste-border-tabla 45
-            td 13 - 13½
+            td.ajuste-border-tabla.texto-left 34
+            td.ajuste-border-tabla.texto-left 45
+            td.texto-left 13 - 13½
           tr
-            td.ajuste-border-tabla 35
-            td.ajuste-border-tabla 46
-            td 14 - 14½
+            td.ajuste-border-tabla.texto-left 35
+            td.ajuste-border-tabla.texto-left 46
+            td.texto-left 14 - 14½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla 36
-            td.ajuste-border-tabla 47
-            td 15 - 15½
+            td.ajuste-border-tabla.texto-left 36
+            td.ajuste-border-tabla.texto-left 47
+            td.texto-left 15 - 15½
 
     Separador
     <!-- BLOQUE 3 -->

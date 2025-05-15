@@ -212,7 +212,7 @@
               figure
                 img(src="@/assets/curso/temas/img25.svg", alt="" style="max-width: 100px").m-auto
           h3.text-center Largo de horma
-          p.mb-0 También llamado longitud de calce o s.S.L en inglés. Se mide desde la talonera hasta la punta con una cinta métrica sobre la superficie.
+          p.mb-0 También llamado longitud de calce o S.S.L en inglés. Se mide desde la talonera hasta la punta con una cinta métrica sobre la superficie.
       .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in")
         .tarjeta--boton.color-primario.p-4.h-100
           .row.justify-content-center.mb-3
@@ -243,7 +243,7 @@
         figure
           img(src="@/assets/curso/temas/img2.svg" style="max-width: 55px").m-auto
       .col
-        h3 Medidas longitudinales
+        h3 Medidas de circunferencia y volumen
 
     p.mb-4.ajustes___movil-1 Estas dimensiones son esenciales para determinar el volumen interno del calzado y permiten ajustar el diseño a las características del pie humano.
 
@@ -495,7 +495,7 @@
                 td.ajuste-border-tabla Horma extra alta
                 td.ajuste-border-tabla Más de 9 cm
                 td.ajuste-border-tabla.texto-left Máxima inclinación. Menor comodidad para uso prolongado.
-                td.texto-left Stilettos, plataformas, calzado de pasarela.
+                td.texto-left <em>Stilettos</em>, plataformas, calzado de pasarela.
     
     p.mb-5.ajustes___movil-2 A medida que la talla aumenta, también lo hace la altura necesaria del tacón para mantener la misma proporción ergonómica y estética en el diseño del calzado.
     

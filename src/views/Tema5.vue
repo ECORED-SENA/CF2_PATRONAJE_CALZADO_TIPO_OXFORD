@@ -112,7 +112,7 @@
     figure.estilo___caja_3.mb-5(data-aos="zoom-in")
       img(src="@/assets/curso/temas/img66.png", alt="Vista superior de la horma con cobertura total de cinta de enmascarar, lista para el trazado del diseño del calzado. " style="max-width: 650px").m-auto
 
-    p.mb-4.ajustes___movil-1 Por último se refilan los sobrantes de cinta y se realiza un corte por los ejes obtenidos, es decir el eje del empeine y del talón.
+    p.mb-4.ajustes___movil-1 Por último, se refilan los sobrantes de cinta y se realiza un corte por los ejes obtenidos, es decir, el eje del empeine y del talón.
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
       h5 Figura 22. 

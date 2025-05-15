@@ -34,7 +34,7 @@
         ol.lista-ol
           li 
             span.text-bold 3. 
-            | Compas de puntas secas o compas de precisión.
+            | Compás de puntas secas o compás de precisión.
         ol.lista-ol
           li 
             span.text-bold 4. 
@@ -50,7 +50,7 @@
         ol.lista-ol
           li 
             span.text-bold 7. 
-            | Cinta de enmascarare.
+            | Cinta de enmascarar.
         ol.lista-ol
           li 
             span.text-bold 8. 
