@@ -121,7 +121,7 @@
           .col-lg-4.estilo___caja_22
             p.mb-0 Diferencias
           .col-lg.estilo___caja_22_1
-            p.mb-0 Las tallas UK son una unidad menos que las tallas US ( ejemplo: UK8 = US 9). Tiene menos variación entre tallas masculinas y femeninas. 
+            p.mb-0 Las tallas UK son una unidad menos que las tallas US (ejemplo: UK8 = US 9). Tiene menos variación entre tallas masculinas y femeninas. 
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src="@/assets/curso/temas/img5.svg", alt="" style="max-width: 500px").m-auto
@@ -222,64 +222,64 @@
         tbody
           tr.ajuste-color-tabla
             td.ajuste-border-tabla.texto-left 22
-            td.ajuste-border-tabla.texto-left 33
-            td.texto-left 1 - 1½
+            td.ajuste-border-tabla.texto-right 33
+            td.texto-right 1 - 1½
           tr
             td.ajuste-border-tabla.texto-left 23
-            td.ajuste-border-tabla.texto-left 34
-            td.texto-left 2 - 2½
+            td.ajuste-border-tabla.texto-right 34
+            td.texto-right 2 - 2½
           tr.ajuste-color-tabla
             td.ajuste-border-tabla.texto-left 24
-            td.ajuste-border-tabla.texto-left 35
-            td.texto-left 3 - 3½
+            td.ajuste-border-tabla.texto-right 35
+            td.texto-right 3 - 3½
           tr
             td.ajuste-border-tabla.texto-left 25
-            td.ajuste-border-tabla.texto-left 36
-            td.texto-left 4 - 4½
+            td.ajuste-border-tabla.texto-right 36
+            td.texto-right 4 - 4½
           tr.ajuste-color-tabla
             td.ajuste-border-tabla.texto-left 26
-            td.ajuste-border-tabla.texto-left 37
-            td.texto-left 5 - 5½
+            td.ajuste-border-tabla.texto-right 37
+            td.texto-right 5 - 5½
           tr
             td.ajuste-border-tabla.texto-left 27
-            td.ajuste-border-tabla.texto-left 38
-            td.texto-left 6 - 6½
+            td.ajuste-border-tabla.texto-right 38
+            td.texto-right 6 - 6½
           tr.ajuste-color-tabla
             td.ajuste-border-tabla.texto-left 28
-            td.ajuste-border-tabla.texto-left 39
-            td.texto-left 7 - 7½
+            td.ajuste-border-tabla.texto-right 39
+            td.texto-right 7 - 7½
           tr
             td.ajuste-border-tabla.texto-left 29
-            td.ajuste-border-tabla.texto-left 40
-            td.texto-left 8 - 8½
+            td.ajuste-border-tabla.texto-right 40
+            td.texto-right 8 - 8½
           tr.ajuste-color-tabla
             td.ajuste-border-tabla.texto-left 30
-            td.ajuste-border-tabla.texto-left 41
-            td.texto-left 9 - 9½
+            td.ajuste-border-tabla.texto-right 41
+            td.texto-right 9 - 9½
           tr
             td.ajuste-border-tabla.texto-left 31
-            td.ajuste-border-tabla.texto-left 42
-            td.texto-left 10 - 10½
+            td.ajuste-border-tabla.texto-right 42
+            td.texto-right 10 - 10½
           tr.ajuste-color-tabla
             td.ajuste-border-tabla.texto-left 32
-            td.ajuste-border-tabla.texto-left 43
-            td.texto-left 11 - 11½
+            td.ajuste-border-tabla.texto-right 43
+            td.texto-right 11 - 11½
           tr
             td.ajuste-border-tabla.texto-left 33
-            td.ajuste-border-tabla.texto-left 44
-            td.texto-left 12 - 12½
+            td.ajuste-border-tabla.texto-right 44
+            td.texto-right 12 - 12½
           tr.ajuste-color-tabla
             td.ajuste-border-tabla.texto-left 34
-            td.ajuste-border-tabla.texto-left 45
-            td.texto-left 13 - 13½
+            td.ajuste-border-tabla.texto-right 45
+            td.texto-right 13 - 13½
           tr
             td.ajuste-border-tabla.texto-left 35
-            td.ajuste-border-tabla.texto-left 46
-            td.texto-left 14 - 14½
+            td.ajuste-border-tabla.texto-right 46
+            td.texto-right 14 - 14½
           tr.ajuste-color-tabla
             td.ajuste-border-tabla.texto-left 36
-            td.ajuste-border-tabla.texto-left 47
-            td.texto-left 15 - 15½
+            td.ajuste-border-tabla.texto-right 47
+            td.texto-right 15 - 15½
 
     Separador
     <!-- BLOQUE 3 -->

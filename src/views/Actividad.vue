@@ -20,7 +20,7 @@ export default {
       tema: 'Patronaje de calzado <em>Oxford</em>',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Identificar  materiales, hormas, moldes, sistemas de medidas y fundamentos técnicos aplicados al patronaje de calzado, específicamente en los modelos <em>Oxford</em>',
+        '<b> Objetivo:</b> Identificar  materiales, hormas, moldes, sistemas de medidas y fundamentos técnicos aplicados al patronaje de calzado, específicamente en los modelos <em>Oxford</em>.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
