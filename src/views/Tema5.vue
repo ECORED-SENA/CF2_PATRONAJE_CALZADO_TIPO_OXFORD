@@ -121,8 +121,6 @@
     figure.estilo___caja_3(data-aos="zoom-in")
       img(src="@/assets/curso/temas/img67.png", alt="Horma completamente cubierta con cinta de enmascarar y línea central trazada sobre la superficie para guiar el diseño del patrón. " style="max-width: 350px").m-auto
 
-
-
 </template>
 
 <script>

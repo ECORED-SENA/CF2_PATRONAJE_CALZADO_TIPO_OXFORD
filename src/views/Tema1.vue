@@ -26,7 +26,7 @@
         figure
           img(src="@/assets/curso/temas/img2.svg" style="max-width: 55px").m-auto
       .col
-        h3 Sistemas métrico - <em>Mondopoint</em>
+        h3 Sistema métrico - <em>Mondopoint</em>
 
     p.mb-4.ajustes___movil-1 Este sistema fue estandarizado por el Instituto Colombiano de Normas Técnicas (ICONTEC) mediante la norma 1639.
 
@@ -116,7 +116,7 @@
           .col-lg-4.estilo___caja_22
             p.mb-0 Características
           .col-lg.estilo___caja_22_1
-            p.mb-0 Similar al sistema estadounidense, pero con punto de inicio distinto. Usa 4 pulgadas como referencia para la talla 0. Incremento entre tallas de 1/3 de pulgada (8.46mm).
+            p.mb-0 Similar al sistema estadounidense, pero con punto de inicio distinto. Usa 4 pulgadas como referencia para la talla 0. Incremento entre tallas de 1/3 de pulgada (8.46 mm).
         .row.m-0(data-aos="fade-right")
           .col-lg-4.estilo___caja_22
             p.mb-0 Diferencias
@@ -151,7 +151,7 @@
           .col-lg-4.estilo___caja_22
             p.mb-0 Características
           .col-lg.estilo___caja_22_1
-            p.mb-0 Existen tallas separadas para hombres, mujeres y niños. Se basa en sistemas Inglés, pero inicia 2,116mm antes. Incremento entre tallas: 1/3 de pulgada (8.46mm).
+            p.mb-0 Existen tallas separadas para hombres, mujeres y niños. Se basa en sistemas Inglés, pero inicia 2,116 mm antes. Incremento entre tallas: 1/3 de pulgada (8.46 mm).
         .row.m-0(data-aos="fade-right")
           .col-lg-4.estilo___caja_22
             p.mb-0 Diferencias
@@ -221,65 +221,65 @@
             th Talla inglesa / estadounidense (UK / US)
         tbody
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla.texto-left 22
-            td.ajuste-border-tabla.texto-right 33
-            td.texto-right 1 - 1½
+            td.ajuste-border-tabla 22
+            td.ajuste-border-tabla 33
+            td 1 - 1½
           tr
-            td.ajuste-border-tabla.texto-left 23
-            td.ajuste-border-tabla.texto-right 34
-            td.texto-right 2 - 2½
+            td.ajuste-border-tabla 23
+            td.ajuste-border-tabla 34
+            td 2 - 2½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla.texto-left 24
-            td.ajuste-border-tabla.texto-right 35
-            td.texto-right 3 - 3½
+            td.ajuste-border-tabla 24
+            td.ajuste-border-tabla 35
+            td 3 - 3½
           tr
-            td.ajuste-border-tabla.texto-left 25
-            td.ajuste-border-tabla.texto-right 36
-            td.texto-right 4 - 4½
+            td.ajuste-border-tabla 25
+            td.ajuste-border-tabla 36
+            td 4 - 4½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla.texto-left 26
-            td.ajuste-border-tabla.texto-right 37
-            td.texto-right 5 - 5½
+            td.ajuste-border-tabla 26
+            td.ajuste-border-tabla 37
+            td 5 - 5½
           tr
-            td.ajuste-border-tabla.texto-left 27
-            td.ajuste-border-tabla.texto-right 38
-            td.texto-right 6 - 6½
+            td.ajuste-border-tabla 27
+            td.ajuste-border-tabla 38
+            td 6 - 6½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla.texto-left 28
-            td.ajuste-border-tabla.texto-right 39
-            td.texto-right 7 - 7½
+            td.ajuste-border-tabla 28
+            td.ajuste-border-tabla 39
+            td 7 - 7½
           tr
-            td.ajuste-border-tabla.texto-left 29
-            td.ajuste-border-tabla.texto-right 40
-            td.texto-right 8 - 8½
+            td.ajuste-border-tabla 29
+            td.ajuste-border-tabla 40
+            td 8 - 8½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla.texto-left 30
-            td.ajuste-border-tabla.texto-right 41
-            td.texto-right 9 - 9½
+            td.ajuste-border-tabla 30
+            td.ajuste-border-tabla 41
+            td 9 - 9½
           tr
-            td.ajuste-border-tabla.texto-left 31
-            td.ajuste-border-tabla.texto-right 42
-            td.texto-right 10 - 10½
+            td.ajuste-border-tabla 31
+            td.ajuste-border-tabla 42
+            td 10 - 10½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla.texto-left 32
-            td.ajuste-border-tabla.texto-right 43
-            td.texto-right 11 - 11½
+            td.ajuste-border-tabla 32
+            td.ajuste-border-tabla 43
+            td 11 - 11½
           tr
-            td.ajuste-border-tabla.texto-left 33
-            td.ajuste-border-tabla.texto-right 44
-            td.texto-right 12 - 12½
+            td.ajuste-border-tabla 33
+            td.ajuste-border-tabla 44
+            td 12 - 12½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla.texto-left 34
-            td.ajuste-border-tabla.texto-right 45
-            td.texto-right 13 - 13½
+            td.ajuste-border-tabla 34
+            td.ajuste-border-tabla 45
+            td 13 - 13½
           tr
-            td.ajuste-border-tabla.texto-left 35
-            td.ajuste-border-tabla.texto-right 46
-            td.texto-right 14 - 14½
+            td.ajuste-border-tabla 35
+            td.ajuste-border-tabla 46
+            td 14 - 14½
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla.texto-left 36
-            td.ajuste-border-tabla.texto-right 47
-            td.texto-right 15 - 15½
+            td.ajuste-border-tabla 36
+            td.ajuste-border-tabla 47
+            td 15 - 15½
 
     Separador
     <!-- BLOQUE 3 -->
@@ -523,9 +523,6 @@
           img(src="@/assets/curso/temas/img14.svg", alt="" style="max-width: 82px")
         p.mb-0 Una entrada muy amplia puede provocar que el pie se desplace, generando fricción e incomodidad.
 
-      
-
- 
 </template>
 
 <script>
