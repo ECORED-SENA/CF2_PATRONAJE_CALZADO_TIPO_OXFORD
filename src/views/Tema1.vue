@@ -121,7 +121,7 @@
           .col-lg-4.estilo___caja_22
             p.mb-0 Diferencias
           .col-lg.estilo___caja_22_1
-            p.mb-0 Las tallas UK son una unidad menos que las tallas US (ejemplo: UK8 = US 9). Tiene menos variación entre tallas masculinas y femeninas. 
+            p.mb-0 Las tallas UK son una unidad menos que las tallas US (ejemplo: UK8 = US9). Tiene menos variación entre tallas masculinas y femeninas. 
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src="@/assets/curso/temas/img5.svg", alt="" style="max-width: 500px").m-auto
@@ -199,8 +199,8 @@
           .col-lg.ajuste___caja_3(data-aos="fade-up").h-100
             h4.mb-3.estilo-h4____3 Ejemplos:
             <ul class="fa-ul">
-              <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span>Talla EU 42 ≈ US 9 (Hombres) / US 10.5 (Mujeres) / UK 8.</li>
-              <li><span class="fa-li"><i class="fas fa-cut"></i></span><em>Mondopoint</em> 270 mm ≈ EU 42.</li>
+              <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span>Talla EU42 ≈ US9 (Hombres) / US10.5 (Mujeres) / UK 8.</li>
+              <li><span class="fa-li"><i class="fas fa-cut"></i></span><em>Mondopoint</em> 270 mm ≈ EU42.</li>
             </ul>
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
