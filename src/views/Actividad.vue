@@ -377,7 +377,8 @@ export default {
         },
         {
           id: 13,
-          texto: 'Los textiles sintéticos no se utilizan en calzado por su baja resistencia.',
+          texto:
+            'Los textiles sintéticos no se utilizan en calzado por su baja resistencia.',
           imagen: require('@/assets/actividad/imagen4.svg'),
           barajarRespuestas: true,
           opciones: [
