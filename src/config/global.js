@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Estructura y desarrollo del calzado',
     Description:
-      'El componente formativo desarrolla el patronaje de calzado Oxford y Derby, abordando materiales, hormas, moldes y sistemas de medidas. Explica los tipos de cuero, materiales sintéticos y textiles, junto con sus aplicaciones. También describe la estructura de las hormas, su clasificación y dimensiones, además de los moldes utilizados en la fabricación del calzado, garantizando ajuste y calidad.',
+      'El componente formativo desarrolla conocimientos sobre medidas del pie, tipos y partes de la horma, anatomía del calzado, herramientas de patronaje y técnicas de enmascarado. Está orientado al diseño técnico del calzado Oxford, buscando precisión, confort y calidad. Aporta fundamentos esenciales para modelar piezas que se ajusten al pie y cumplan con las exigencias del mercado.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -126,7 +126,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/291501101_CF02_DU.pdf',
+        download: 'downloads/52450480_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -158,7 +158,7 @@ export default {
     {
       termino: 'Cuero',
       significado:
-        'material natural obtenido de la piel de animales, principalmente vacuno, que se somete a un proceso de curtido para hacerlo resistente y flexible. Se utiliza en la fabricación de calzado por su durabilidad, <em>confort</em> y capacidad de adaptarse a la forma del pie.',
+        'material natural obtenido de la piel de animales, principalmente vacuno, que se somete a un proceso de curtido para hacerlo resistente y flexible. Se utiliza en la fabricación de calzado por su durabilidad, confort y capacidad de adaptarse a la forma del pie.',
     },
     {
       termino: 'Horma',
@@ -178,7 +178,7 @@ export default {
     {
       termino: 'Textil',
       significado:
-        'material compuesto por fibras naturales (algodón, lino, lana) o sintéticas (poliéster, nylon) que se utiliza en la fabricación de calzado, especialmente en modelos deportivos y casuales, debido a su ligereza y transpirabilidad.',
+        'material compuesto por fibras naturales (algodón, lino, lana) o sintéticas (poliéster, nailon) que se utiliza en la fabricación de calzado, especialmente en modelos deportivos y casuales, debido a su ligereza y transpirabilidad.',
     },
   ],
   referencias: [
