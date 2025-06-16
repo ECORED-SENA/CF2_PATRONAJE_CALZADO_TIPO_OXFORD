@@ -17,10 +17,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Patronaje de calzado <em>Oxford</em>',
+      tema: 'Patronaje de calzado Oxford',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Identificar  materiales, hormas, moldes, sistemas de medidas y fundamentos técnicos aplicados al patronaje de calzado, específicamente en los modelos <em>Oxford</em>.',
+        '<b> Objetivo:</b> Identificar  materiales, hormas, moldes, sistemas de medidas y fundamentos técnicos aplicados al patronaje de calzado, específicamente en los modelos Oxford.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -29,7 +29,7 @@ export default {
           id: 1,
           texto:
             '¿Cuál es el principal propósito del patronaje en la fabricación de calzado?',
-          imagen: require('@/assets/actividad/imagen1.svg'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -60,7 +60,7 @@ export default {
           id: 2,
           texto:
             '¿Qué tipo de cuero se caracteriza por su flexibilidad y color uniforme?',
-          imagen: require('@/assets/actividad/imagen1.svg'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -91,7 +91,7 @@ export default {
           id: 3,
           texto:
             '¿Cuál es una característica de los materiales sintéticos tipo EVA?',
-          imagen: require('@/assets/actividad/imagen1.svg'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -122,7 +122,7 @@ export default {
           id: 4,
           texto:
             '¿Cuál es la función principal de una horma en el proceso de fabricación de calzado?',
-          imagen: require('@/assets/actividad/imagen1.svg'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -153,7 +153,7 @@ export default {
           id: 5,
           texto:
             '¿Qué tipo de horma es ideal para personas con pie voluminoso?',
-          imagen: require('@/assets/actividad/imagen2.svg'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -184,7 +184,7 @@ export default {
           id: 6,
           texto:
             '¿Qué materiales se utilizan comúnmente en la fabricación de moldes para corte?',
-          imagen: require('@/assets/actividad/imagen2.svg'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -215,7 +215,7 @@ export default {
           id: 7,
           texto:
             '¿Cuál es el punto de partida para ubicar la línea metatarsiana en la horma?',
-          imagen: require('@/assets/actividad/imagen2.svg'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -246,7 +246,7 @@ export default {
           id: 8,
           texto:
             '¿Qué sistema de medida es el más preciso y está basado en la longitud real del pie?',
-          imagen: require('@/assets/actividad/imagen2.svg'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -276,7 +276,7 @@ export default {
         {
           id: 9,
           texto: '¿Qué indica el perímetro de retención en la horma?',
-          imagen: require('@/assets/actividad/imagen3.svg'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -307,7 +307,7 @@ export default {
           id: 10,
           texto:
             '¿Qué tipo de calzado usa comúnmente horma articulada tipo Alfa (V)?',
-          imagen: require('@/assets/actividad/imagen3.svg'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -338,7 +338,7 @@ export default {
           id: 11,
           texto:
             'Los moldes base son utilizados únicamente para suelas y tacones.',
-          imagen: require('@/assets/actividad/imagen3.svg'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -358,7 +358,7 @@ export default {
         {
           id: 12,
           texto: 'El cuero vegetal es biodegradable y tiene tonos naturales.',
-          imagen: require('@/assets/actividad/imagen3.svg'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -379,7 +379,7 @@ export default {
           id: 13,
           texto:
             'Los textiles sintéticos no se utilizan en calzado por su baja resistencia.',
-          imagen: require('@/assets/actividad/imagen4.svg'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -400,7 +400,7 @@ export default {
           id: 14,
           texto:
             'La línea de plantilla se forma con el borde superior del cono de la horma.',
-          imagen: require('@/assets/actividad/imagen4.svg'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -421,7 +421,7 @@ export default {
           id: 15,
           texto:
             'La horma puede tener apertura para facilitar el proceso de deshormado.',
-          imagen: require('@/assets/actividad/imagen4.svg'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {

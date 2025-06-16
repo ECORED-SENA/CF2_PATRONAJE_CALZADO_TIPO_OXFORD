@@ -1,10 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="295" height="102.622" viewBox="0 0 295 102.622">
-  <g id="Group_1178847" data-name="Group 1178847" transform="translate(-1125 -381.378)">
-    <g id="Group_1178750" data-name="Group 1178750" transform="translate(-0.051 -16)">
-      <rect id="Rectangle_405094" data-name="Rectangle 405094" width="295" height="73" rx="2" transform="translate(1125.051 417)" fill="#2f5235"/>
-      <rect id="Rectangle_405095" data-name="Rectangle 405095" width="233" height="93" rx="2" transform="translate(1156.051 407)" fill="#abb9ae"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="318" height="144" viewBox="0 0 318 144">
+  <defs>
+    <filter id="Rectangle_405442" x="0" y="12" width="318" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_405441" x="94" y="0" width="130" height="144" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-2"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1179036" data-name="Group 1179036" transform="translate(-1107.051 -4738)">
+    <g id="Group_1178946" data-name="Group 1178946">
+      <g transform="matrix(1, 0, 0, 1, 1107.05, 4738)" filter="url(#Rectangle_405442)">
+        <g id="Rectangle_405442-2" data-name="Rectangle 405442" transform="translate(6 17)" fill="#32d5d3" stroke="#fff" stroke-width="3">
+          <path d="M0,0H265a29,29,0,0,1,29,29V67a29,29,0,0,1-29,29H29A29,29,0,0,1,0,67V0A0,0,0,0,1,0,0Z" stroke="none"/>
+          <path d="M1.5,1.5H265A27.5,27.5,0,0,1,292.5,29V67A27.5,27.5,0,0,1,265,94.5H29A27.5,27.5,0,0,1,1.5,67V1.5A0,0,0,0,1,1.5,1.5Z" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1107.05, 4738)" filter="url(#Rectangle_405441)">
+        <g id="Rectangle_405441-2" data-name="Rectangle 405441" transform="translate(100 5)" fill="#e0ee33" stroke="#fff" stroke-width="3">
+          <path d="M0,0H77a29,29,0,0,1,29,29V91a29,29,0,0,1-29,29H29A29,29,0,0,1,0,91V0A0,0,0,0,1,0,0Z" stroke="none"/>
+          <path d="M1.5,1.5H77A27.5,27.5,0,0,1,104.5,29V91A27.5,27.5,0,0,1,77,118.5H29A27.5,27.5,0,0,1,1.5,91V1.5A0,0,0,0,1,1.5,1.5Z" fill="none"/>
+        </g>
+      </g>
     </g>
-    <g id="tape_7242203" transform="translate(1221 381.378)">
+    <g id="tape_7242203" transform="translate(1208.74 4751.689)">
       <g id="Group_1178845" data-name="Group 1178845" transform="translate(1.655 1.655)">
         <g id="Group_1178839" data-name="Group 1178839" transform="translate(13.242 9.931)">
           <path id="Path_1034697" data-name="Path 1034697" d="M111.725,56V95.725H91.862l-3.31,4.3,3.31,4.3-.9,1.175c-1.841.1-3.753.151-5.717.151a89,89,0,0,1-12.819-.844l2.888-5.777L72,95.725l3.31-3.31L72,87.449l3.31-3.31L72,80.828l3.31-3.31L72,74.207l3.31-3.31L73.8,64.959a65.237,65.237,0,0,0,11.444.972C99.867,65.931,111.725,61.485,111.725,56Z" transform="translate(-72 -56)" fill="#f0d0b4"/>

@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Estructura y desarrollo del calzado',
+    Name: 'Técnicas de diseño y enmascarado en calzado Oxford',
     Description:
       'El componente formativo desarrolla conocimientos sobre medidas del pie, tipos y partes de la horma, anatomía del calzado, herramientas de patronaje y técnicas de enmascarado. Está orientado al diseño técnico del calzado Oxford, buscando precisión, confort y calidad. Aporta fundamentos esenciales para modelar piezas que se ajusten al pie y cumplan con las exigencias del mercado.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -8,11 +8,11 @@ export default {
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
       },
     ],
   },

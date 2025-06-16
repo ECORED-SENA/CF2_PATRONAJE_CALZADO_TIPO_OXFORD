@@ -14,59 +14,60 @@
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src="@/assets/curso/temas/img51.svg", alt="" style="max-width: 295px").m-auto
     
-    .titulo-sexto.color-acento-contenido.mb-4.ajustes___movil-1(data-aos="fade-right")
-      h5 Figura 13. 
-      span Herramientas utilizadas en el proceso de patronaje
-    
-    .row.align-items-center.estilo___caja_3.m-0(data-aos="zoom-in")
-      .col-xl-auto
-        figure
-          img(src='@/assets/curso/temas/img52.svg', alt='Herramientas sobre una mesa, incluyendo cuchilla, borrador, compás, reglas, tijeras, cinta, portaminas, piedra de afilar y tabla de corte.' style="max-width: 500px").m-auto
-      .col-xl.ajustes___movil-3
-        ol.lista-ol
-          li 
-            span.text-bold 1. 
-            | Cuchilla de corte.
-        ol.lista-ol
-          li 
-            span.text-bold 2. 
-            | Borrador.
-        ol.lista-ol
-          li 
-            span.text-bold 3. 
-            | Compás de puntas secas o compás de precisión.
-        ol.lista-ol
-          li 
-            span.text-bold 4. 
-            | Regla metálica de 15 cm.
-        ol.lista-ol
-          li 
-            span.text-bold 5. 
-            | Portaminas.
-        ol.lista-ol
-          li 
-            span.text-bold 6. 
-            | Tijeras.
-        ol.lista-ol
-          li 
-            span.text-bold 7. 
-            | Cinta de enmascarar.
-        ol.lista-ol
-          li 
-            span.text-bold 8. 
-            | Piedra de afilar.
-        ol.lista-ol
-          li 
-            span.text-bold 9. 
-            | Regla metálica de 30 cm.
-        ol.lista-ol
-          li 
-            span.text-bold 10. 
-            | Metro de calzado o cinta métrica.
-        ol.lista-ol
-          li 
-            span.text-bold 11. 
-            | Tabla de corte.
+    .estilo___caja_19.m-0
+      figure.mb-5(data-aos="zoom-in")
+        img(src='@/assets/curso/temas/img52.png', alt='Herramientas sobre una mesa , incluyendo cuchilla, borrador, compás, reglas, tijeras, cinta, portaminas, piedra de afilar y tabla de corte.' style="max-width: 500px").m-auto
+      .row.justify-content-center
+        .col-xl-10
+          .row.align-items-center.fondo___img_3(data-aos="zoom-in")
+            .col-xl-7
+              ol.lista-ol
+                li 
+                  span.text-bold A. 
+                  | Cuchilla de corte.
+              ol.lista-ol
+                li 
+                  span.text-bold B. 
+                  | Borrador.
+              ol.lista-ol
+                li 
+                  span.text-bold C. 
+                  | Compás de puntas secas o compás de precisión.
+              ol.lista-ol
+                li 
+                  span.text-bold D. 
+                  | Regla metálica de 15 cm.
+              ol.lista-ol
+                li 
+                  span.text-bold E. 
+                  | Portaminas.
+              ol.lista-ol
+                li 
+                  span.text-bold F. 
+                  | Tijeras.
+              ol.lista-ol
+                li 
+                  span.text-bold G. 
+                  | Cinta de enmascarar.
+              ol.lista-ol
+                li 
+                  span.text-bold H. 
+                  | Piedra de afilar.
+              ol.lista-ol
+                li 
+                  span.text-bold I. 
+                  | Regla metálica de 30 cm.
+              ol.lista-ol
+                li 
+                  span.text-bold J. 
+                  | Metro de calzado o cinta métrica.
+              ol.lista-ol
+                li 
+                  span.text-bold K. 
+                  | Tabla de corte.
+            .col-xl-5
+              figure(data-aos="fade-left").d-none.d-xl-block
+                img.ajuste___width_img(src="@/assets/curso/temas/img76.svg", alt="" ).m-auto
 
 </template>
 

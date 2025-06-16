@@ -26,18 +26,18 @@
   
 .banner-principal .tarjeta
   background-position: left 50% !important
-  @media screen and (max-width: 1024px)
+  @media screen and (max-width: 1200px)
     background-image: url("../assets/curso/portada/fondo-banner-principal1.png") !important
-  @media screen and (max-width: 390px)
+  @media screen and (max-width: 768px)
     background-image: url("../assets/curso/portada/fondo-banner-principal2.png") !important
 
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/fondo-banner-principal3.png") !important
+
 .banner-principal__row .banner-principal__img
-  width: 320px !important
+  width: 320px !important 
   @media screen and (min-width: 1400px)
     width: 355px !important
-
-.banner-principal__img
-  margin-right: 2rem !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: black !important
@@ -45,13 +45,24 @@
 .banner-interno__titulo__icono i
   color: white
 
+.banner-principal__descripcion
+  padding: 0rem 4rem 0rem 0rem
+  @media screen and (min-width: 1400px)
+    padding: 0rem !important
+  @media screen and (max-width: 768px)
+    padding: 0rem !important
+
+.banner-principal__info
+  @media screen and (max-width: 576px)
+    padding: 9rem 2.4rem 9rem 1.5rem !important
+
 figcaption
   font-weight: normal
+  background-color: #726D6D
+  color: white
 
-.banner-interno__fondo
-  background-image: url("../assets/curso/portada/fondo-banner-principal3.png") !important
-
-
+.barra-avance__boton--regresar span
+  color: white !important
 
 
 
@@ -109,14 +120,36 @@ figcaption
   background-repeat: no-repeat
   background-size: cover
   margin-inline: -3.2rem !important
+  padding-bottom: 2rem !important
 
-.fondo-slider
-  background-image: url("../assets/curso/temas/img68.png")
+
+.fondo___img_2
+  background-image: url("../assets/curso/temas/img73.png")
   background-repeat: no-repeat
   background-size: 1145px
+  background-position: bottom
   margin-inline: -3.2rem !important
   @media screen and (min-width: 1400px)
     background-size: 1325px
+
+.fondo___img_3
+  background-image: url("../assets/curso/temas/img75.png")
+  background-repeat: no-repeat
+  background-size: 780px
+  padding: 0.5rem 0rem 0rem 1rem
+  @media screen and (max-width: 1200px)
+    background-size: 0px
+    padding: 1rem
+  @media screen and (min-width: 1400px)
+    background-size: 930px
+    padding: 0.5rem 0rem 1rem 2rem
+  
+.fondo___slider
+  background-image: url("../assets/curso/temas/img74.png")
+  background-repeat: no-repeat
+  background-size: cover
+  margin-inline: -3.2rem !important
+  padding: 3rem 0rem
 
 .fondo___color
   background-image: url("../assets/curso/temas/img42.png")
@@ -126,15 +159,35 @@ figcaption
   @media screen and (min-width: 1400px)
     background-size: 1325px
 
+.fondo___color_1
+  background-color: #F5F1F1
+  padding-top: 2.5rem
+  padding-bottom: 2.5rem
+  background-size: 1145px
+  margin-inline: -3.2rem !important
+  @media screen and (min-width: 1400px)
+    background-size: 1325px
+
 /// INTRO
 .caja-text-intro
   margin: 0rem
   background-color: $color-adicional-10
-  padding: 0rem 1rem 0rem 0rem
+  padding: 0.5rem 1rem 0.5rem 0rem
   img
     margin-left: -0.7rem !important
-  @media screen and (max-width: 1024px)
-    padding: 1rem
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+  @media screen and (min-width: 1400px)
+    padding: 0rem 1rem 0rem 0rem
+
+.caja-text-intro_1
+  background-color: #FAE6B9
+  padding: 2rem
+  margin-top: -1rem 
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+
+  
 
 
 /// TEMA 1
@@ -142,25 +195,36 @@ figcaption
 /// BLOQUE 0 ------------------------------------
 .estilo___caja_20
   margin: 0rem 
-  background-color: $color-adicional-10
+  background-color: #FAE6B9
   padding: 0rem 2rem 0rem 0rem
-  @media screen and (max-width: 1024px)
+  @media screen and (max-width: 1200px)
     padding: 1rem
   img
     margin-left: -0.7rem !important
   
 /// BLOQUE 1 ------------------------------------
 .estilo___caja_22
-  background-color: $color-secundario
+  background-color: #3E7047
   p
     color: white
   padding: 1rem
   text-align: center
   align-content: center
 .estilo___caja_22_1
-  background-color: $color-adicional-2
+  background-color: #CAF3D2
   padding: 0.5rem 1rem
   align-content: center
+  border: none
+  border-bottom: 1px dashed #569D64
+  @media screen and (max-width: 1200px)
+    border-bottom: 0px
+.estilo___caja_22_1_1
+  background-color: #CAF3D2
+  padding: 0.5rem 1rem
+  align-content: center
+
+  
+
 
 
 /// BLOQUE 2 ------------------------------------
@@ -202,7 +266,7 @@ figcaption
     padding: 1rem    
 .ajuste___caja_3
   margin: 0rem
-  background-color: $color-adicional-3
+  background-color: #FAE6B9
   padding: 4.3rem 2rem 3.3rem 2rem
   @media screen and (max-width: 390px)
     width: 93% !important
@@ -212,7 +276,8 @@ figcaption
   @media screen and (min-width: 1400px)
     padding: 3.4rem 2rem 3rem 2rem
 .estilo-h4____3
-  background-color: $color-acento-contenido
+  background-color: #3E7047
+  color: white
   display: inline-flex
   padding: 0.5rem 1rem
 
@@ -225,29 +290,30 @@ figcaption
 
 /// BLOQUE 3 ------------------------------------
 .estilo___caja_3
-  background-color: $color-adicional-4
-  padding: 2rem 4rem
+  background-color: #726D6D
+  padding: 4rem 4rem
   @media screen and (max-width: 820px)
     padding: 1rem
 
 .estilo___caja-tema3-1
   margin: 0rem
-  background-color: $color-adicional-7
+  background-color: #FAE6B9
   padding: 1rem
   border-radius: 9px
 
 .estilo___caja_1
-  background-color: $color-acento-contenido
+  background-color: #F4C251
   text-align: center
   padding: 1rem
   border-top-left-radius: 5px
   border-top-right-radius: 5px
 .ajuste___color_caja-1
-  background-color: $color-adicional-6
+  background-color: #D28265
 .ajuste___color_caja-2
-  background-color: $color-adicional-8
+  background-color: #3E7047
+  color: white
 .estilo___caja_2
-  background-color: $color-adicional-5
+  background-color: #FDF3DC
   color: $color-sistema-texto
   text-align: center
   padding: 1rem
@@ -256,15 +322,16 @@ figcaption
   @media screen and (max-width: 820px)
     margin-bottom: 1rem !important
 .ajuste___color_caja-3
-  background-color: $color-adicional-7
+  background-color: #EDCDC1
 .ajuste___color_caja-4
-  background-color: $color-adicional-9
+  background-color: #CAF3D2
 
 .estilo___caja_tema3_2
-  background-color: $color-adicional-3
+  background-color: #F5F1F1
   padding: 1rem 2rem 0.5rem 2rem 
 .estilo-h4____3_1
-  background-color: $color-acento-contenido
+  background-color: #3E7047
+  color: white
   display: inline-flex
   padding: 0.5rem 1rem
 
@@ -287,7 +354,7 @@ figcaption
 
 .estilo___caja_tema3_3
   margin: 0rem
-  background-color: $color-adicional-10
+  background-color: #E4F9E8
   img
     margin-left: -0.7rem !important
   @media screen and (max-width: 1024px)
@@ -295,83 +362,130 @@ figcaption
 .ajustes_ul
   li
     margin-left: -1rem
+.color___ul_1
+  color: #3E7047
+
 
 .estilo___caja-tema3-4
-  background-color: $color-adicional-1
+  background-color: #F4C251
   padding: 3rem 2.5rem
   border-top-left-radius: 20px
   border-bottom-left-radius: 20px
-  @media screen and (max-width: 820px)
+  @media screen and (max-width: 992px)
     margin-bottom: 1rem !important
     border-radius: 20px
 .estilo___caja-tema3-4_1
-  background-color: $color-adicional-3
+  background-color: #FAE6B9
   padding: 3rem 2.5rem
   border-top-right-radius: 20px
   border-bottom-right-radius: 20px
-  @media screen and (max-width: 820px)
+  @media screen and (max-width: 992px)
     border-radius: 20px
 
 
 /// TEMA 2
 
 /// BLOQUE 1 ------------------------------------
+.ajuste___color_1
+  background-color: #EDCDC1
+
 .estilo___caja-tema4
-  background-color: $color-adicional-3
-  padding: 1.5rem 2rem 0rem 2rem
-  @media screen and (max-width: 390px)
-    margin-left: 0.7rem
-    width: 93%
+  background-color: #E6DCDC
+  padding: 3rem 2rem 1rem 2rem
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
   @media screen and (min-width: 1400px)
-    padding: 4rem 2rem 2rem 2rem
+    padding: 4rem 2rem 2.5rem 2rem
+
+.estilo___caja_img
+  background-color: #726D6D
+  padding: 2rem 
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
 
 .estilo___caja-tema4-1
-  background-color: $color-adicional-12
-  padding: 4rem 2rem 2.5rem 2rem
+  background-color: #FDF3DC
+  padding: 1rem 2rem 0.2rem 2rem
   ul
     padding: 0rem
-    margin-left: 1.5rem
-  @media screen and (max-width: 1024px)
-    width: 94%
-    margin-left: 0.7rem !important
-    padding: 1rem
-    margin-top: 1rem !important
+    margin-left: 1.7rem
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
   @media screen and (min-width: 1400px)
-    padding: 5rem 2rem 4rem 2rem
+    padding: 2rem 2rem 1rem 2rem
+
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: $color-acento-contenido
+.linea-tiempo-d__item__number
+  background-color: #E6DCDC
+.linea-tiempo-d__item__number:hover
+  background-color: $color-acento-contenido !important
+.linea-tiempo-d__item__content__title
+  background-color: #E6DCDC
+  transition: background-color 0.3s ease-in-out
+  border-top-left-radius: 10px
+  border-top-right-radius: 10px
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  background-color: #DAF6D7 !important
+.linea-tiempo-d__item__content__slot
+  background-color: #DAF6D7
+  border-bottom-left-radius: 10px
+  border-bottom-right-radius: 10px
 
 .estilo___caja-tema4-2
-  background-color: $color-adicional-12
-  padding: 1.5rem 2rem 1rem 2rem
+  background-color: #FDF3DC
+  padding: 1.5rem 2rem 0.5rem 2rem
   ul
     padding: 0rem
-    margin-left: 1.5rem 
-  @media screen and (max-width: 1024px)
-    width: 94%
-    margin-left: 0.7rem !important
-    padding: 2rem 2rem 0rem 2rem
+    margin-left: 1.7rem 
+  @media screen and (max-width: 1200px)
+    padding: 2rem
   @media screen and (min-width: 1400px)
-    padding: 3.2rem 2rem 2.2rem 2rem
+    padding: 3.2rem 2rem 3rem 2rem
 
-.acordion__accion__btn--a
+.slyder-a__item
+  padding: 1rem !important
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
   background-color: $color-acento-botones
-.acordeonA
-  position: relative
-  background-color: $color-adicional-8
-  width: 100%
-  @media screen and (max-width: 1024px)
-    width: 100%
+  color: white !important
+.slyder-a__bullets__item 
+  background-color: #DEDBDB !important
+  border: 0px
+.slyder-a__bullets__item--active
+  background-color: #A09999 !important
+.slyder-a__bullets__item
+  @media screen and (max-width: 768px)
+    width: 15px !important
+.ajuste-slider
+  width: 100% !important
+  border-radius: 20px
+  margin: 0rem !important
+  padding: 1rem 3rem !important
+  background-color: white
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.4)
   p
-    padding-left: 3.5rem
-.acordion__activo
-  background-color: $color-adicional-10
-  h3
-    color: black !important
-  p
-    padding-left: 4.4rem
-.ajuste-cajaAcordion
-  padding: 0rem 1rem 0rem 0rem
+    padding: 0rem 2rem
+  h4
+    padding: 0rem 2rem
   ul
-    padding-left: 3.5rem
+    padding: 0rem 1rem
+  @media screen and (max-width: 576px)
+    padding: 1rem 2rem 1rem 2rem !important 
+  @media screen and (max-width: 1200px)
+    margin: 1rem 0rem 1rem 2rem
+    padding: 1rem 0rem 1rem 2rem
+    p
+      padding: 0rem
+    h4
+      padding: 0rem
+    ul
+      padding: 0rem
+  @media screen and (min-width: 1400px)
+    margin: 2rem 3rem
+    padding: 2rem 
+.slyder-a__tipo-b .slyder-a__btn--atrs
+    transform: rotate(90deg)
+    left: 15px
 
 .ajuste___img
   margin-top: 2rem !important
@@ -392,19 +506,50 @@ figcaption
 /// BLOQUE 2 ------------------------------------
 .estilo___caja-tema4-3
   margin: 0rem
-  background-color: $color-adicional-10
+  background-color: #EDCDC1
   padding: 0.5rem 1rem 0.5rem 0rem
   @media screen and (max-width: 1024px)
     padding: 1.5rem
   @media screen and (min-width: 1400px)
     padding: 1.5rem 1rem 1.5rem 0rem
 
+.tarjeta.color-acento-botones
+  background-color: #3E7047
+  padding: 3rem 2.5rem !important
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3)
+  p
+    color: white
+.horizontal-scroll__wrapper
+  padding: 1rem 0.5rem
+.fa-chevron-right
+  color: $color-acento-botones
+.fa-chevron-left
+  color: $color-acento-botones
+.estilo-text
+  text-align: center
+  padding: 0.3rem
+.slyder-f__btn i
+  font-size: 1.2rem
+  background-color: $color-acento-botones
+  color: white
+  border-radius: 50px
+  padding: 0.8rem 1rem
+.slyder-f__btn i:hover
+  background-color: $color-acento-botones
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3)
+  border: 1px solid white
+  transition: opacity 0.3s ease-in-outbox-shadow 0.3s ease-in-out
+
 .tarjeta--boton.color-primario
   background-color: $color-adicional-2
-  padding: 1.5rem 2rem !important
+  h3
+    color: white
+  p
+    color: white
+  padding: 3rem 2rem !important
   box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3)
 .tarjeta--boton.color-primario:hover
-  background-color: $color-adicional-10 !important
+  background-color: #FAE6B8 !important
 
 .ajuste__espacio-tema4
   margin-top: 5rem !important
@@ -434,7 +579,7 @@ figcaption
 
 .estilo___caja-tema4-6
   margin: 0rem
-  background-color: $color-adicional-2
+  background-color: #F6E6E0
   margin-right: -0.8rem
   padding: 2rem 1.5rem 0.5rem 3rem
   ul
@@ -448,39 +593,16 @@ figcaption
   @media screen and (min-width: 1400px)
     padding: 3rem 1.5rem 1.1rem 3rem
 
-.ajuste-slider
-  width: 92%
-  border-radius: 20px
-  margin: 3rem 3rem
-  padding: 2rem 4rem 
-  background-color: $white
-  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.4)
-  @media screen and (max-width: 1024px)
-    margin: 4rem 0rem 4rem 2rem
-  @media screen and (max-width: 390px)
-    width: 85%
-    margin: 2rem 0rem 2rem 2rem
-    padding: 2rem 2rem 1rem 2rem
-  @media screen and (min-width: 1400px)
-    margin: 2rem 3rem
-    padding: 5.5rem 4rem 
-.slyder-a__item
-  padding: 1rem !important
-.slyder-a__btn--atrs
-  background-color: $color-acento-botones
-.slyder-a__btn--sigt
-  background-color: $color-acento-botones
-.slyder-a__bullets__item 
-  background-color: #FDEF92
-  border: 0px
-.slyder-a__bullets__item--active
-  background-color: $color-acento-contenido
-.slyder-a__bullets__item
-  @media screen and (max-width: 390px)
-    width: 15px !important
+.tabs-a__tab__text
+  color: $color-sistema-texto
+.tabs-a__tab
+  background-color: #FAE6B8
+.color-acento-botones--borde
+  border: none !important
+  background-color: #E4F9E8 !important
 
 .estilo___caja_4
-  background-color: $color-adicional-4
+  background-color: #726D6D
   padding: 2rem 12rem
   @media screen and (max-width: 1024px)
     padding: 2rem
@@ -505,7 +627,7 @@ figcaption
     .crd_hover_txt--body   
       transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
       transform: translateY(0)
-      background-color: $color-adicional-6
+      background-color: #EDCDC1
       border-bottom-left-radius: 20px
       border-bottom-right-radius: 20px
       h4
@@ -516,7 +638,7 @@ figcaption
     bottom: 0    
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
     transform: translateY(calc( 100% - 3.85rem ))
-    background-color: $color-secundario
+    background-color: #7E4E3D
     h4
       text-align: center
       color: white
@@ -527,10 +649,57 @@ figcaption
 
 
 /// TEMA 4
-.estilo___caja_23
-  margin: 0rem
-  background-color: $color-adicional-10
-  padding: 1rem 0rem
+.estilo___caja_19
+  background-color: #FEF9EE
+  padding: 2rem 4rem
+  border: 1px solid #229494
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+
+.lista-ol
+  font-size: 14px
+  margin-bottom: -0.7rem !important
+  @media screen and (max-width: 1200px)
+    font-size: 16px
   @media screen and (min-width: 1400px)
-    margin-top: 2.5rem !important
-    margin-bottom: 2.5rem !important
+    font-size: 16px
+
+.ajuste___width_img
+  @media screen and (min-width: 1400px)
+    position: relative
+    bottom: -0.1rem !important
+
+
+
+
+/// TEMA 5
+.estilo___caja_23
+  background-color: #EDCDC1
+  padding: 2rem 2rem 2rem 0rem
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+
+.acordion__accion__btn--a
+  background-color: $color-acento-botones
+  color: white
+.acordeonA
+  position: relative
+  background-color: #FAE6B9
+  width: 100%
+  @media screen and (max-width: 1200px)
+    width: 100%
+  p
+    padding-left: 3.5rem
+.acordion__activo
+  background-color: #E4F9E8
+  h3
+    color: black !important
+  p
+    padding-left: 4.4rem
+.ajuste-cajaAcordion
+  padding: 0rem 1rem 0rem 0rem
+  ul
+    padding-left: 3.5rem
+
+.ajuste___color_2
+  background-color: #E4F9E8

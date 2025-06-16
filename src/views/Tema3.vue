@@ -64,43 +64,42 @@
 
     p.mb-4.ajustes___movil-1 El arco plantar es la curvatura ubicada en la parte interna del pie y desempeña un papel clave en la distribución del peso y la absorción del impacto al caminar o correr.
 
-    TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
 
-      .py-3.py-md-4(titulo="Pie normal o arco medio")
-        .row.justify-content-center.align-items-center
-          .col-xl-5.order-2.order-lg-1
-            figure.d-none.d-xl-block
-              img(src='@/assets/curso/temas/img44.svg', alt="" style="max-width: 300px").m-auto
-          .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
-            h4.txt--purpura.mb-4 Pie normal o arco medio
-            p.mb-0 Presenta una curvatura moderada. Distribuye bien el peso y la presión al caminar.
+    .fondo___slider.mb-5
+      .px-5
+        .ajuste-slider(data-aos="zoom-in")
+          SlyderA(tipo="b")
+            .row.h-100.justify-content-center.align-items-center
+              .col-xl-6
+                figure.d-none.d-xl-block
+                  img(src='@/assets/curso/temas/img44.svg', alt='' style="max-width: 300px").m-auto
+              .col-xl-6.mb-4
+                h4.txt--purpura.mb-4 Pie normal o arco medio
+                p.mb-0 Presenta una curvatura moderada. Distribuye bien el peso y la presión al caminar.
+              
+            .row.h-100.justify-content-center.align-items-center
+              .col-xl-6
+                figure.d-none.d-xl-block
+                  img(src='@/assets/curso/temas/img45.svg', alt='' style="max-width: 300px").m-auto
+              .col-xl-6.mb-4
+                h4.txt--purpura.mb-4 Pie plano (arco bajo)
+                p.mb-0 La curvatura es mínima o inexistente, haciendo que casi toda la planta toque el suelo. Puede generar problemas de postura y dolor en pies o rodillas.
 
-      .py-3.py-md-4(titulo="Pie plano (arco bajo)")
-        .row.justify-content-center.align-items-center
-          .col-xl-5.order-2.order-lg-1
-            figure.d-none.d-xl-block
-              img(src='@/assets/curso/temas/img45.svg', alt="" style="max-width: 300px").m-auto
-          .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
-            h4.txt--purpura.mb-4 Pie plano (arco bajo)
-            p.mb-0 La curvatura es mínima o inexistente, haciendo que casi toda la planta toque el suelo. Puede generar problemas de postura y dolor en pies o rodillas.
+            .row.h-100.justify-content-center.align-items-center
+              .col-xl-6
+                figure.d-none.d-xl-block
+                  img(src='@/assets/curso/temas/img46.svg', alt='' style="max-width: 300px").m-auto
+              .col-xl-6.mb-4
+                h4.txt--purpura.mb-4 Pie cavo (arco alto)
+                p.mb-0 El arco es muy pronunciado, dejando un espacio elevado entre la planta y el suelo. Puede causar mayor presión en el talón y metatarso, generando dolor o problemas de estabilidad.
 
-      .py-3.py-md-4(titulo="Pie cavo (arco alto)")
-        .row.justify-content-center.align-items-center
-          .col-xl-5.order-2.order-lg-1
-            figure.d-none.d-xl-block
-              img(src='@/assets/curso/temas/img46.svg', alt="" style="max-width: 300px").m-auto
-          .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
-            h4.txt--purpura.mb-4 Pie cavo (arco alto)
-            p.mb-0 El arco es muy pronunciado, dejando un espacio elevado entre la planta y el suelo. Puede causar mayor presión en el talón y metatarso, generando dolor o problemas de estabilidad.
-      
-      .py-3.py-md-4(titulo="<em>Hallux Valgus</em> (Juanete)")
-        .row.justify-content-center.align-items-center
-          .col-xl-5.order-2.order-lg-1
-            figure.d-none.d-xl-block
-              img(src='@/assets/curso/temas/img47.svg', alt="" style="max-width: 300px").m-auto
-          .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
-            h4.txt--purpura.mb-4 <em>Hallux Valgus</em> (Juanete)
-            p.mb-0 El dedo gordo se inclina hacia el segundo dedo, formando una protuberancia ósea en la base del dedo. Puede causar dolor, inflamación y enrojecimiento. También puede derivar en deformidades como dedos en garra o superposición de dedos.
+            .row.h-100.justify-content-center.align-items-center
+              .col-xl-6
+                figure.d-none.d-xl-block
+                  img(src='@/assets/curso/temas/img47.svg', alt='' style="max-width: 300px").m-auto
+              .col-xl-6.mb-4
+                h4.txt--purpura.mb-4 <em>Hallux Valgus</em> (Juanete)
+                p.mb-0 El dedo gordo se inclina hacia el segundo dedo, formando una protuberancia ósea en la base del dedo. Puede causar dolor, inflamación y enrojecimiento. También puede derivar en deformidades como dedos en garra o superposición de dedos.
             
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
