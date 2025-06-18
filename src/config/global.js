@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Técnicas de diseño y enmascarado en calzado Oxford',
+    Name: 'De la horma al patronaje del calzado',
     Description:
       'El componente formativo desarrolla conocimientos sobre medidas del pie, tipos y partes de la horma, anatomía del calzado, herramientas de patronaje y técnicas de enmascarado. Está orientado al diseño técnico del calzado Oxford, buscando precisión, confort y calidad. Aporta fundamentos esenciales para modelar piezas que se ajusten al pie y cumplan con las exigencias del mercado.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),

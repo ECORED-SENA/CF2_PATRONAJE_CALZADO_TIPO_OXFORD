@@ -1,1 +1,1 @@
-module.exports = 'Estructura y desarrollo del calzado'
+module.exports = 'De la horma al patronaje del calzado'
